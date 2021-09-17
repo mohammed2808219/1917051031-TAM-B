@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="object_received">Object Received</string>
+</resources>
